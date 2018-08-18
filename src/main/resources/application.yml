@@ -10,3 +10,4 @@ spring:
           searchLocations: classpath:offline-repository/
 server:
   port: 8001
+  
